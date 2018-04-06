@@ -5,6 +5,6 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #010101;
-  background-image: linear-gradient(to bottom, transparent, #00000);
+  background-color: rgb(11, 11, 11);
+  background-image: none;
 }
